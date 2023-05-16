@@ -16,5 +16,9 @@ public class HelloController {
         System.out.println(":");
         System.out.println("小飞机");
         System.out.println("hotfix");
+        System.out.println("一个小笨蛋在IDEA中敲代码");
+        System.out.println("一个小笨蛋在IDEA中敲代码");
+        System.out.println("一个小笨蛋在IDEA中敲代码");
+        System.out.println("一个小笨蛋在IDEA中敲代码");
     }
 }
