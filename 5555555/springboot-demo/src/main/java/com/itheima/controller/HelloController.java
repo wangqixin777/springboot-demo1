@@ -12,4 +12,7 @@ public class HelloController {
         return "hello.dongjing";
     }
 
+    public static void s() {
+        System.out.println(":");
+    }
 }
