@@ -14,5 +14,6 @@ public class HelloController {
 
     public static void s() {
         System.out.println(":");
+        System.out.println("小飞机");
     }
 }
